@@ -1,3 +1,4 @@
+package BasicJava;
 
 
 public class CountWordsInString {

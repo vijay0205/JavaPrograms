@@ -1,3 +1,4 @@
+package Arrays;
 
 
 public class SearchElementInArray {
@@ -5,7 +6,7 @@ public class SearchElementInArray {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int arr[]= {10,20,30,40};
+		int arr[]= {100,20,30,40};
 		boolean flag=false;
 		int searchElement=100;
 		for(int i=0;i<arr.length-1;i++) {

@@ -1,9 +1,10 @@
+package BasicJava;
 import java.util.Random;
 
 public class GenerateRandonNumberAndString {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 
 //		Approach 1- Using Random class
 

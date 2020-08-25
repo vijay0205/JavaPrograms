@@ -1,6 +1,7 @@
+package Arrays;
 
 
-public class FindMacAndMinValueInArray {
+public class FindMaxAndMinValueInArray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
