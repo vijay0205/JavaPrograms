@@ -15,6 +15,9 @@ public class PrintDuplicateOccuranceOfString {
 			if (hmap.get(tempString) != null) {
 				hmap.put(tempString, hmap.get(tempString) + 1);
 			}  
+			else {
+				hmap.put(tempString,1);
+			}
 
 		}
 		Iterator<String> itr = hmap.keySet().iterator();
