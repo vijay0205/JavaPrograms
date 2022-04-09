@@ -1,5 +1,6 @@
 package BasicJava;
 
+import jdk.internal.org.objectweb.asm.tree.IntInsnNode;
 
 public class CountCharacterOcurence {
 
@@ -8,6 +9,7 @@ public class CountCharacterOcurence {
 		String s = "Java Programing";
 
 		int InitialLength = s.length();
+		System.out.println(InitialLength);
 		s = s.replaceAll("a", "");
 		int finalLength = s.length();
 		System.out.println(s);

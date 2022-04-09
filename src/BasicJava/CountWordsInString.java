@@ -1,6 +1,5 @@
 package BasicJava;
 
-
 public class CountWordsInString {
 
 	public static void main(String[] args) {
@@ -20,6 +19,10 @@ public class CountWordsInString {
 		}
 
 		System.out.println("Total words are " + count);
+
+//		Approach 2 using split functionality
+		String[] arr = s.split(" ");
+		System.out.println(arr.length);
 
 	}
 
