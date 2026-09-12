@@ -1,4 +1,4 @@
-package BasicJava;
+  package BasicJava;
 import java.util.Random;
 
 public class GenerateRandonNumberAndString {
