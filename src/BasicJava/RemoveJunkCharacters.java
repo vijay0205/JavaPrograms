@@ -1,4 +1,4 @@
-package BasicJava;
+  package BasicJava;
 
 public class RemoveJunkCharacters {
 
@@ -10,3 +10,4 @@ public class RemoveJunkCharacters {
 	}
 
 }
+ 

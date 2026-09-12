@@ -9,7 +9,7 @@ public class FindMissingNumberInArray {
 		int sum1 = 0;
 		int sum2 = 0;
 		for (int i = 0; i < array.length; i++) {
-			sum1 = sum1 + array[i];
+			sum1 = sum1 + array[i];   
 		}
 		System.out.println("Total sum is " + sum1);
 
@@ -22,3 +22,4 @@ public class FindMissingNumberInArray {
 	}
 
 }
+ 

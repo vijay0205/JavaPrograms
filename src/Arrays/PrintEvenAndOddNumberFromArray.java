@@ -1,4 +1,4 @@
-package Arrays;
+ package Arrays;
 import java.util.ArrayList;
 
 public class PrintEvenAndOddNumberFromArray {
@@ -6,7 +6,7 @@ public class PrintEvenAndOddNumberFromArray {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		ArrayList evenList = new ArrayList();
+		ArrayList evenList = new ArrayList(); 
 		ArrayList oddList = new ArrayList();
 
 		int array[] = { 1, 2, 3, 4, 5, 6 };
