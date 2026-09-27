@@ -13,7 +13,7 @@ public class SearchElementInArray {
 			
 			if (arr[i]==searchElement) {
 				System.out.print(" Element is present is Array");
-				System.out.print("  and Found At "+i + " Place");
+				System.out.print(" and Found At "+i + " Place");
 				flag=true;
 				break;
 			}

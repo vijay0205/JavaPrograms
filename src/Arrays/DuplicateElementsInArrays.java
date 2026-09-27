@@ -21,7 +21,7 @@ public class DuplicateElementsInArrays {
 				}
 
 			}
-		}
+		} 
 
 		if (status == false) {
 			System.out.println("No Duplicate elements are found");

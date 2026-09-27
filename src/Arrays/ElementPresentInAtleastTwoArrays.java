@@ -12,11 +12,13 @@ public class ElementPresentInAtleastTwoArrays {
 		Integer[] arr1 = { 1, 2, 3, 4 };
 		Integer[] arr2 = { 1, 2, 3, 4, 5, 7 };
 		Integer[] arr3 = { 1, 2, 3, 4, 7, 5, 8 };
+		
 		List<Integer> al1 = Arrays.asList(arr1);
 		List<Integer> al2 = Arrays.asList(arr2);
 		List<Integer> al3 = Arrays.asList(arr3);
+		
 		HashSet<Integer> hset = new HashSet<>();
-//	getting all the unique valies from the arrays
+//	getting all the unique values from the arrays
 
 		hset.addAll(al3);
 		hset.addAll(al2);
